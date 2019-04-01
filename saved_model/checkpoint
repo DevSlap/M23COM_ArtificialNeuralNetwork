@@ -1,0 +1,4 @@
+model_checkpoint_path: "/tmp/saved_model/model.ckpt-31260"
+all_model_checkpoint_paths: "/tmp/saved_model/model.ckpt-28134"
+all_model_checkpoint_paths: "/tmp/saved_model/model.ckpt-29697"
+all_model_checkpoint_paths: "/tmp/saved_model/model.ckpt-31260"
